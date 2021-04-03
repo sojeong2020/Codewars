@@ -31,7 +31,7 @@ function countSheeps(arrayOfSheep) {
 
 
 
-//Other solutions I searched
+//Other solutions I searched from othersite
 
 //solution 1(use loop)
 
