@@ -3,6 +3,7 @@
 
 //For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9.
 
+//My solution 
 
 function squareSum(numbers){
   let total=0;
@@ -12,3 +13,6 @@ function squareSum(numbers){
   return total;
 
 }
+
+
+//loop
