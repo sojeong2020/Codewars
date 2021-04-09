@@ -28,6 +28,12 @@ list[i].greeting = `Hi ${list[i].firstName}, what do you like the most about ${l
 return list
   }
 
+/*How to add a property to an object in JavaScript
+
+https://www.techiedelight.com/add-property-to-object-javascript/
+*/
+
+
 //Other solutions from Codewars
 
 //solution 1    forEach() method
